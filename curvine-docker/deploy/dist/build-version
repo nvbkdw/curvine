@@ -1,0 +1,5 @@
+commit=dea51e95551ff93a1f20184bce512539c2052f67
+os=rocky9_x86_64
+fuse=fuse3
+version=0.2.1-beta
+ufs_types=s3
